@@ -1,0 +1,7 @@
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\bin\Debug\RainbowSchoolData.exe.config
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\bin\Debug\RainbowSchoolData.exe
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\bin\Debug\RainbowSchoolData.pdb
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\obj\Debug\RainbowSchoolData.csproj.AssemblyReference.cache
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\obj\Debug\RainbowSchoolData.csproj.CoreCompileInputs.cache
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\obj\Debug\RainbowSchoolData.exe
+D:\mphasis\RainbowSchoolData\RainbowSchoolData\obj\Debug\RainbowSchoolData.pdb
